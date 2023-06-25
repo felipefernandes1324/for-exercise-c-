@@ -1,1 +1,1 @@
-"# for-exercise-c-" 
+Little exercise from a C# course
